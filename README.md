@@ -3,6 +3,7 @@
 Fala Pessoal, Este é um projeto didático desenvolvido em python para aplicar conhecimentos de Logica.
 
 ##Oque Deve ser Utilizado:
+
 * **Variavéis<br>
 * **Operadores<br>
 * **Laços de Repetição<br>
